@@ -1,7 +1,7 @@
-# VISITGIS [![VISITGIS]
+# VISITGIS 
 
 VISITGIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-
+Cancel changes
 **Table Of Contents:**
   - [Geographic Information System Software](#geographic-information-system-software)
   - [Remote Sensing Software](#remote-sensing-software)
